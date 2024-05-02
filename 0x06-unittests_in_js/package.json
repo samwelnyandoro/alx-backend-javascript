@@ -1,0 +1,27 @@
+{
+  "name": "0x06-unittests_in_js",
+  "version": "1.0.0",
+  "description": "Unit testing in Javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/samwelnyandoro/alx-backend-javascript.git"
+  },
+  "author": "Samwel Nyandoro",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/samwelnyandoro/alx-backend-javascript/issues"
+  },
+  "homepage": "https://github.com/samwelnyandoro/alx-backend-javascript#readme",
+  "dependencies": {
+    "chai": "^4.3.7",
+    "mocha": "^10.2.0",
+    "request": "^2.88.2",
+    "sinon": "^15.0.2",
+    "stub": "^0.3.2"
+  }
+}
+
